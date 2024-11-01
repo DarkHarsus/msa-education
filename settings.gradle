@@ -1,3 +1,4 @@
 rootProject.name = 'msa-education'
 
 includeBuild 'eureka-server'
+includeBuild 'ticket-service'
